@@ -35,8 +35,8 @@ namespace MyFirstProject
             Console.WriteLine("Hej! " + userName);
 
             /*Kollar om int i är mindre eller likamed number. Om ja printar den ut + "1" och loopar tills talet blir = number*/
-            for (int i = 0; i <= number ; i++) {
-
+            for (int i = 0; i <= number ; i++) 
+            {
                 Console.WriteLine(i);
             }
 
